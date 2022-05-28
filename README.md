@@ -1,2 +1,2 @@
 # jokes_application
-a very simple application for practicing spring framwork.
+it's a very simple application for practicing spring framwork.
